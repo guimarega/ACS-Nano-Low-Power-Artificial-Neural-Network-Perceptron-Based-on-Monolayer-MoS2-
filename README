@@ -1,6 +1,7 @@
-In this folder there are the codes for reading the raw data presented in the paper. The dataset is available in 
-
 Low-Power Artificial Neural Network Perceptron Based on Monolayer MoS2. ACS Nano in press, DOI : 10.1021/acsnano.1c0706
+
+In this folder there are the codes for reading the raw data presented in the paper. 
+The raw data and datasets are available in Zenodo at DOI : 10.5281/zenodo.6033560. Please put the codes in the corresponding raw data folder before running the software.
 
 Guilherme Migliato Marega 1,2, Zhenyu Wang 1,2, Maksym Paliy 4, Gino Giusi 5, Sebastiano Strangio 4, Francesco Castiglione 6, Christian Callegari 6, Mukesh Tripathi 1,2, Aleksandra Radenovic 3, Giuseppe Iannaccone 4,6*, Andras Kis 1,2* 
 

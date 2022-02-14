@@ -1,0 +1,16 @@
+In this folder there are the codes for reading the raw data presented in the paper. The dataset is available in 
+
+Low-Power Artificial Neural Network Perceptron Based on Monolayer MoS2. ACS Nano in press, DOI : 10.1021/acsnano.1c0706
+
+Guilherme Migliato Marega 1,2, Zhenyu Wang 1,2, Maksym Paliy 4, Gino Giusi 5, Sebastiano Strangio 4, Francesco Castiglione 6, Christian Callegari 6, Mukesh Tripathi 1,2, Aleksandra Radenovic 3, Giuseppe Iannaccone 4,6*, Andras Kis 1,2* 
+
+1 - Institute of Electrical and Microengineering, École Polytechnique Fédérale de Lausanne (EPFL),  
+CH-1015 Lausanne, Switzerland
+2 - Institute of Materials Science and Engineering, École Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland
+3 - Institute of Bioengineering, École Polytechnique Fédérale de Lausanne (EPFL),
+CH-1015 Lausanne, Switzerland
+4 - Department of Information Engineering, University of Pisa, I-56122 Pisa, Italy
+5 -  Engineering Department, University of Messina, I-98166 Messina, Italy
+6 - Quantavis s.r.l., Largo Padre Renzo Spadoni snc, I-56123 Pisa, Italy
+
+*Correspondence should be addressed to Andras Kis, andras.kis@epfl.ch and Giuseppe Iannaccone, giuseppe.iannaccone@unipi.it
